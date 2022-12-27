@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in no time for real
+          Learn React in no time for real ora
+          
         </a>
       </header>
     </div>
